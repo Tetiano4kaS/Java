@@ -8,7 +8,6 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
 public class User {
     private int id;
     private String name;
@@ -16,6 +15,6 @@ public class User {
     private String email;
     private int age;
     private Gend gender;
-    private List<Skills> skills= new ArrayList<>();
+    private List<Skills> skills = new ArrayList<>();
     private Car car;
 }

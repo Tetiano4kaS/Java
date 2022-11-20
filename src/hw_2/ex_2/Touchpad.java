@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
 public class Touchpad {
-private String producer;
-private String model;
+    private String producer;
+    private String model;
 }

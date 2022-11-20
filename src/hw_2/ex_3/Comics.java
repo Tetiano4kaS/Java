@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Comics extends Book{
+public class Comics extends Book {
     private boolean isImage;
     private boolean isVisualInfornation;
 

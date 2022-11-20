@@ -8,10 +8,8 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-
-public class Laptop extends PC{
-private Touchpad touchpad;
+public class Laptop extends PC {
+    private Touchpad touchpad;
 
     public Laptop(hw_2.ex_2.Monitor Monitor, Ram ram, Touchpad touchpad) {
         super(Monitor, ram);

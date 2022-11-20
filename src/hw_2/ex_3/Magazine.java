@@ -7,10 +7,8 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Magazine extends Book{
+public class Magazine extends Book {
     private String publishing;
-
 
     public Magazine(String producer, String material, int amountOfPages, Cover cover, Author author, Genres genres, String publishing) {
         super(producer, material, amountOfPages, cover, author, genres);

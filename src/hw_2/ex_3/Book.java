@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Book extends Papirus{
+public class Book extends Papirus {
     private int amountOfPages;
     private Cover cover;
     private Author author;

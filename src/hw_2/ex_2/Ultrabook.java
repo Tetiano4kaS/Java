@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Ultrabook extends Laptop{
+public class Ultrabook extends Laptop {
     private double weight;
 
     public Ultrabook(Monitor Monitor, Ram ram, Touchpad touchpad, double weight) {

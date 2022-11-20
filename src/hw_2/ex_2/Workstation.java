@@ -7,10 +7,9 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Workstation extends Laptop{
-private boolean isRAID;
-private int numberOfCores;
+public class Workstation extends Laptop {
+    private boolean isRAID;
+    private int numberOfCores;
 
     public Workstation(Touchpad touchpad, boolean isRAID, int numberOfCores) {
         super(touchpad);

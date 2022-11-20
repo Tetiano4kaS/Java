@@ -1,51 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="847e01aa-69fa-4626-97e9-835a6c4e44e4" name="Changes" comment="add les/hw_1">
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Touchpad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Workstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Comics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Cover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Genres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Papirus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Gend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_2/ex_4/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/compose/CommonData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/compose/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/compose/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/compose/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/delegation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/delegation/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/delegation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/enums/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/extnd/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/extnd/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/extnd/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/extnd/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_2/extnd/User.java" afterDir="false" />
+    <list default="true" id="847e01aa-69fa-4626-97e9-835a6c4e44e4" name="Changes" comment="add hw_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Geo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Geo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Touchpad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Touchpad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Ultrabook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ultrabook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Workstation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Workstation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Comics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Comics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Cover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Cover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Papirus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Papirus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/Gend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Gend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,19 +59,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Java/Java/libs/lombok.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java/Java/libs/lombok.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="hw_2.ex_3" />
@@ -188,7 +171,7 @@
       <updated>1668172284859</updated>
       <workItem from="1668172286298" duration="5231000" />
       <workItem from="1668177583559" duration="4527000" />
-      <workItem from="1668955644516" duration="9982000" />
+      <workItem from="1668955644516" duration="11294000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1668172357176</created>
@@ -197,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668172357176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hw_2">
+      <created>1668966543145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668966543146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add hw_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
