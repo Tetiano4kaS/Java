@@ -1,0 +1,8 @@
+
+|
+java:S1319"fThe type of "skills" should be an interface such as "List" rather than the implementation "ArrayList".(¾¯¦¤
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(òáØËıÿÿÿÿ
+
+java:S1319&"fThe type of "skills" should be an interface such as "List" rather than the implementation "ArrayList".(ÖşÀ²øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªëÙõøÿÿÿÿ

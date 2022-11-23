@@ -1,0 +1,23 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "material" 3 times.(Şááß
+c
+java:S1192"HDefine a constant instead of duplicating this literal "surname" 3 times.(‚—õşÿÿÿÿ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "producer" 3 times.(Şááß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºúŞÓøÿÿÿÿ
+Y
+java:S1854
+"<Remove this useless assignment to local variable "magazine".(şàÇË8ĞŒ˜±É0
+N
+java:S1854"8Remove this useless assignment to local variable "book".(Şááß
+V
+java:S1854";Remove this useless assignment to local variable "papirus".(éØÒƒúÿÿÿÿ
+G
+java:S1481",Remove this unused "papirus" local variable.(éØÒƒúÿÿÿÿ
+?
+java:S1481")Remove this unused "book" local variable.(Şááß
+J
+java:S1481
+"-Remove this unused "magazine" local variable.(şàÇË8ÒŒ˜±É0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾Á“˜

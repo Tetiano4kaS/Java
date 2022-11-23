@@ -2,32 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="847e01aa-69fa-4626-97e9-835a6c4e44e4" name="Changes" comment="add hw_2">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/039fffe6c3d68966e0247f8d89e3fdd8282c6e77" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0415e04fca5371188cf9dc74d99c7eff968dde64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2130327d399475cc231b943a3b9e1905f360a7a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/233efba8af27735e70ad37b1b5a331043d852809" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/290b8b55195c0221fb12e18c08863b29693e1774" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2adac6ff8043261753e978ec22d940978e3fe56d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d9ec6aab40d1a4be78f177aa567f78911ef2f18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e746fc19417b9c0a6caff5342319552b0f18200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3213646ca2d6e9e01df902d864e6d9ae96313931" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/326cf2424d0451e193cd18a42de99441a67218f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32ba1a4687853fa51f0c9fb2b0dbbc4ad4736847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f46d6aea09e267fa58bad4c5b36c5181ddadd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/347e74406939dc4b689c0659038c99d1fc69fefe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38b4d886d13dab8023eeb7230de45893e3eefa8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b0b792baeeceec3a25ac21a88a7797809448e44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3eea617a0769024922cc1e04320fb68dacf8118b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42aed7f243d278faf6980154adf63e765b386763" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/439a31aef7ed0f4a97612c4e35db84b9c8704c5a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b030f50e362de75a10637fd31c94a08dfb492a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50a2f0ed60caaa5251ee17e019d170b2848c667a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5474f44e8957db65a077317972ca9b3b83194461" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57838e6c9e32337e7a9de922bbcadaeddbc9aee9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62f4369d454f1b3a5314ff7b3aa2e5dc518b64f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f958d0e132792baef5fed29f36c21f6efb6e7ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7059bab0cf0f2ab81923024c0d4bb71a1e7f810c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/7644e5f669081baf8cdcbdb8ba7f04e26e91e12d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7902d2cfb6d6c885d5a087f47f7d1e2f4217df23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/794ffb978da2f79241f020338c7924b1cdd1724b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7de7b205cbbb5a6dd9302574598318cbc92e2b1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80918d6fe0bd18ef3a081ffb329af8c6271da651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a59d027e2de5fdc61fcae99913b38c0a5fe1371" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec6b87ce054a26a429bc3416db8edd1645126b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8fbdb413475c208654c93ab1ab023a1cbadbc644" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/939064a814daa68b8a02f879d0052ada2dc03f87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/939d1ee85d36dea23a89eb0d30d32773e7c0e11f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a295f03791325473177ecdd0afd51990cadce5cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a75275fe73f7e770c314435c83ff421d91969b43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbc08e986579be268bdc3f506df0d22f37e25d1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfa2cfc79b4b9c7c946b526028ce05e1ae2c380f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2289118b418f1ff315255dbc97740159536a8af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc6bdd4759cdb7b15bf702aadb045d30eba5fee3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dda9353e81e89bb1fe85e50585d449cb2658aac9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dde9a852956af8cc6ff2a2529d5fbded14136a02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3f5df59bfc244412b31873b22f9b60f1b9ab2d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e42a0504a836b95d0aff612564f0e4f06082b3ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e769f28b7406fd5382acaf85202db1d804db6a8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5ca44908ea5336ffb4d6b96786224d9c4f222bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/functions/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/functions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/functions/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_3/interfaces/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/Geo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/Geo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Touchpad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Touchpad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Ultrabook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Ultrabook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_2/Workstation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_2/Workstation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Comics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Comics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Cover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Cover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Papirus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Papirus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_3/Genres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_3/Genres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/Gend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Gend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_2/ex_4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_2/ex_4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +76,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Kotlin Class" />
+        <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -70,7 +111,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +126,7 @@
       <recent name="E:\Java\Java\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw_2.ex_3.Main">
+  <component name="RunManager" selected="Application.les_3.interfaces.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_2.ex_1.Main" />
       <module name="Java" />
@@ -138,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="les_2.enums.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_2.enums.Main" />
+    <configuration name="les_3.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_3.interfaces.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_2.enums.*" />
+          <option name="PATTERN" value="les_3.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.les_3.interfaces.Main" />
         <item itemvalue="Application.hw_2.ex_3.Main" />
         <item itemvalue="Application.hw_2.ex_2.Main" />
         <item itemvalue="Application.hw_2.ex_4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.les_2.enums.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +212,9 @@
       <updated>1668172284859</updated>
       <workItem from="1668172286298" duration="5231000" />
       <workItem from="1668177583559" duration="4527000" />
-      <workItem from="1668955644516" duration="11294000" />
+      <workItem from="1668955644516" duration="11347000" />
+      <workItem from="1668969638506" duration="473000" />
+      <workItem from="1669206333728" duration="5247000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1668172357176</created>
@@ -187,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668966543146</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hw_2">
+      <created>1668969533967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668969533967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

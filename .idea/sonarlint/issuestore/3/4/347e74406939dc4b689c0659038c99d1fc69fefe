@@ -1,0 +1,19 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "dfghj" 3 times.(ÉôÈî
+b
+java:S1192"GDefine a constant instead of duplicating this literal "fghjkl" 5 times.(×ĞÀûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÑŠĞÿÿÿÿÿ
+_
+java:S1854"=Remove this useless assignment to local variable "ultrabook".(ïìÉ•ùÿÿÿÿ8ÙòÛ¯É0
+\
+java:S1854":Remove this useless assignment to local variable "laptop".(Üé­ùÿÿÿÿ8Ø§È¯É0
+L
+java:S1854"6Remove this useless assignment to local variable "pc".(®¨³¬
+=
+java:S1481"'Remove this unused "pc" local variable.(®¨³¬
+M
+java:S1481"+Remove this unused "laptop" local variable.(Üé­ùÿÿÿÿ8Û§È¯É0
+P
+java:S1481".Remove this unused "ultrabook" local variable.(ïìÉ•ùÿÿÿÿ8ßòÛ¯É0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Åç¹ûûÿÿÿÿ8‘ ©¯É0

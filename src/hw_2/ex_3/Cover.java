@@ -5,7 +5,6 @@ import lombok.Setter;
 
 
 public enum Cover {
-    @Getter
-    @Setter
+
     HARD, SOFT;
 }
