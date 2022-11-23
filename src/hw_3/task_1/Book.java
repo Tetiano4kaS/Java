@@ -1,4 +1,4 @@
-package hw_3.ex_1;
+package hw_3.task_1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,12 +7,14 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Magazine implements Printable{
+public class Book implements Printable{
     private int id;
     private String title;
-    private String publishing;
+    private String author;
+    private Genre genre;
+
     @Override
     public void print() {
-        System.out.println(title);
+        System.out.println(this);
     }
 }

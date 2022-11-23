@@ -1,4 +1,4 @@
-package hw_3.ex_1;
+package hw_3.task_1;
 
 import java.util.ArrayList;
 import java.util.List;

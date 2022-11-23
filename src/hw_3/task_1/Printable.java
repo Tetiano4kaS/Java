@@ -1,4 +1,4 @@
-package hw_3.ex_1;
+package hw_3.task_1;
 
 public interface Printable {
     void print();

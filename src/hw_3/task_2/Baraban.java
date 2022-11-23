@@ -1,4 +1,4 @@
-package hw_3.ex_2;
+package hw_3.task_2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
