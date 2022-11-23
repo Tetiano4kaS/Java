@@ -13,5 +13,6 @@ public class Main {
 
         Calculator calculator = (a, b) -> a + b;
 
+
     }
 }
