@@ -3,8 +3,6 @@ J
 .idea/libraries/lombok.xml,2\e\2e746fc19417b9c0a6caff5342319552b0f18200
 B
 src/les_1/Car.java,4\3\439a31aef7ed0f4a97612c4e35db84b9c8704c5a
-I
-src/les_1/lists/Main.java,7\9\794ffb978da2f79241f020338c7924b1cdd1724b
 C
 src/les_1/Main.java,2\a\2adac6ff8043261753e978ec22d940978e3fe56d
 I
@@ -41,12 +39,8 @@ I
 src/les_2/enums/User.java,e\4\e42a0504a836b95d0aff612564f0e4f06082b3ec
 I
 src/les_2/extnd/User.java,e\7\e769f28b7406fd5382acaf85202db1d804db6a8a
-G
-src/hw_2/ex_1/Main.java,0\3\039fffe6c3d68966e0247f8d89e3fdd8282c6e77
 F
 src/hw_2/ex_4/Car.java,5\4\5474f44e8957db65a077317972ca9b3b83194461
-I
-src/hw_2/ex_4/Skills.java,3\2\32f46d6aea09e267fa58bad4c5b36c5181ddadd0
 J
 src/hw_2/ex_1/Address.java,8\f\8fbdb413475c208654c93ab1ab023a1cbadbc644
 I
@@ -63,14 +57,6 @@ I
 src/hw_2/ex_2/Laptop.java,7\9\7902d2cfb6d6c885d5a087f47f7d1e2f4217df23
 K
 src/hw_2/ex_3/Magazine.java,f\5\f5ca44908ea5336ffb4d6b96786224d9c4f222bd
-B
-src/hw_1/Main.java,3\8\38b4d886d13dab8023eeb7230de45893e3eefa8f
-G
-src/hw_2/ex_2/Main.java,3\4\347e74406939dc4b689c0659038c99d1fc69fefe
-G
-src/hw_2/ex_3/Main.java,e\3\e3f5df59bfc244412b31873b22f9b60f1b9ab2d9
-G
-src/hw_2/ex_4/Main.java,8\e\8ec6b87ce054a26a429bc3416db8edd1645126b9
 J
 src/hw_2/ex_2/Monitor.java,3\b\3b0b792baeeceec3a25ac21a88a7797809448e44
 J
@@ -87,8 +73,6 @@ L
 src/hw_2/ex_2/Ultrabook.java,d\d\dde9a852956af8cc6ff2a2529d5fbded14136a02
 G
 src/hw_2/ex_1/User.java,7\0\7059bab0cf0f2ab81923024c0d4bb71a1e7f810c
-G
-src/hw_2/ex_4/User.java,3\e\3eea617a0769024922cc1e04320fb68dacf8118b
 N
 src/hw_2/ex_2/Workstation.java,3\2\3213646ca2d6e9e01df902d864e6d9ae96313931
 G
@@ -119,18 +103,6 @@ I
 src/hw_2/ex_3/Genres.java,d\0\d0d5cec61757a52020cefc52603be2e98d974c33
 Q
 !src/les_3/functions/Customer.java,8\c\8c47ee69e1c2216470d8c31d8a3c99432cd42aed
-J
-src/hw_3/ex_2/Baraban.java,f\7\f7663946bd0f15ee957aedf2bba89465520f1964
-H
-src/hw_3/ex_1/Genre.java,2\6\2603eb5c6230545e1a5756e2b42c9d5e90c02071
-M
-src/hw_3/ex_2/Instrument.java,2\b\2b0dc4619df9ccd74764e4c146f9f17ae2efcd8f
-K
-src/hw_3/ex_1/Magazine.java,3\0\30307cf0799180f953ac598087da32e92b58e5f5
-G
-src/hw_3/ex_1/Main.java,4\4\44678564bc96ae725d994c805b3e67938391195c
-H
-src/hw_3/ex_2/Truba.java,0\3\0322c85b56c999c484180ffdcef567a3e9076d07
 N
 src/les_3/interfaces/Main.java,6\6\669c5533793a63338c7ee18180f2008814020dc7
 T
@@ -139,9 +111,39 @@ M
 src/les_3/functions/User.java,e\7\e7881227fee2138226d2cf0d69d9c3555da3371d
 M
 src/les_3/functions/Main.java,e\6\e692e88394ae3356b5aad6c0e572e7ec3597c584
+L
+src/hw_3/task_2/Baraban.java,8\8\88d6d5c9c5335c9fa6f954d542b98a96c8b87c80
 I
-src/hw_3/ex_2/Guitar.java,1\2\121c4ee19b74800f00a209f1b189da23ff5601c0
+src/hw_3/task_1/Book.java,e\1\e11b60a1a3416e846ef739de3799fb65c7d2a9f8
+J
+src/hw_3/task_1/Genre.java,f\1\f18d8b371628cb90382e5a6432e8f0701c9e8385
+K
+src/hw_3/task_2/Guitar.java,a\3\a3933e969f6547ad1ba12bda2c7b346e1598ae5c
+O
+src/hw_3/task_2/Instrument.java,5\2\5221afbc2dacaa0b641982a2cd2847b37b0a988f
+M
+src/hw_3/task_1/Magazine.java,9\e\9e5dcf80c5a81caf793e3994043e23dd552c5a73
+I
+src/hw_3/task_1/Main.java,e\9\e916d07a80ecfc34e1e0d88a5ee80031804f6fcf
+I
+src/hw_3/task_2/Main.java,b\7\b70bd71803614372b5599efaac6251575da1526a
+N
+src/hw_3/task_1/Printable.java,c\1\c110fd0717403c33ebb50cec88d1bc5a98a332f4
+J
+src/hw_3/task_2/Truba.java,e\b\ebdf7872cfb39300b990551970c30b5949c4cf9d
+B
+src/hw_1/Main.java,3\8\38b4d886d13dab8023eeb7230de45893e3eefa8f
 G
-src/hw_3/ex_1/Book.java,5\a\5a4d40f191f226798859af8bb74cc0064c41a22b
+src/hw_2/ex_3/Main.java,e\3\e3f5df59bfc244412b31873b22f9b60f1b9ab2d9
 G
-src/hw_3/ex_2/Main.java,3\6\3676b58328110027c577daeaf854be1f0507e82a
+src/hw_2/ex_2/Main.java,3\4\347e74406939dc4b689c0659038c99d1fc69fefe
+G
+src/hw_2/ex_1/Main.java,0\3\039fffe6c3d68966e0247f8d89e3fdd8282c6e77
+I
+src/les_1/lists/Main.java,7\9\794ffb978da2f79241f020338c7924b1cdd1724b
+I
+src/hw_2/ex_4/Skills.java,3\2\32f46d6aea09e267fa58bad4c5b36c5181ddadd0
+G
+src/hw_2/ex_4/User.java,3\e\3eea617a0769024922cc1e04320fb68dacf8118b
+G
+src/hw_2/ex_4/Main.java,8\e\8ec6b87ce054a26a429bc3416db8edd1645126b9
